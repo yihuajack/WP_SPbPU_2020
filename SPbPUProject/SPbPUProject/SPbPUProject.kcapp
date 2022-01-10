@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Kingview CompactMode="1">
+	<FileInfo Type=".kcapp" Version="0x4"/>
+	<BasicInfo Name="SPbPUProject" Comment="" Guid="A341829D-E1E2-4e9b-ACA4-6F6FF1FC5D19" Author="Yihua" Company="" ScreenResolution="56624640" ProjectVersion="-2147483643" ProjectType="2" ProjectFilesValidFlag="1" ModifyTime="2020-02-05 07:16:50" CreateTime="2020-02-05 07:16:49"/>
+	<Settings>
+		<Setting DataType="Bool" Name="encrypted" Value="False"/>
+		<Setting DataType="String" Name="ProjectTemplateName" Value="Standard"/>
+	</Settings>
+	<Files>
+		<File Name="SPbPUProject.kcapp"/>
+		<File Name="tagname.db"/>
+		<File Name="structtemplate.db"/>
+		<File Name="structtemplatemember.db"/>
+		<File Name="taggroup.db"/>
+		<File Name="alarmgroup.db"/>
+		<File Name="nonlineartable.db"/>
+		<File Name="tagname.idx"/>
+		<File Name="structtemplate.idx"/>
+		<File Name="DataModel\\DmDef.kdm"/>
+		<File Name="DataModel\\dmInst.idx"/>
+		<File Name="Recipe.cfg"/>
+		<File Name="SQLTableTemplate.db"/>
+		<File Name="SQLBindList.db"/>
+	</Files>
+</Kingview>

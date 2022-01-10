@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Kingview CompactMode="1" Name="SPbPUProject" Comment="" FileVersion="1" Guid="BF2C946D-CDCC-4528-B024-DF3B46E543C7" Author="Yihua" Modifier="" CreateTime="2020-02-05 07:16:49" ModifyTime="2020-02-05 07:16:49" KSClientNum="1" SolutionType="1" IconFilePathUnsel="" IconFilePathSel="" ActivePro="SPbPUProject">
+	<FileInfo Type="" Version="0x1"/>
+	<Projects>
+		<Project ProjectType="2" Name="SPbPUProject" Comment="" Guid="A341829D-E1E2-4e9b-ACA4-6F6FF1FC5D19" Path="SPbPUProject\\SPbPUProject.kcapp" Active="1" ProjectFilesValidFlag="1"/>
+	</Projects>
+</Kingview>
